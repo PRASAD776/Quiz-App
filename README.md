@@ -1,1 +1,2 @@
-# Quiz-App
+# Quiz-Project
+Java Script Quiz
